@@ -1,0 +1,6 @@
+*.asv
+/data
+/data2
+*.zip
+*.pyc
+*.txt
